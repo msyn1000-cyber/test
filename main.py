@@ -1,3 +1,3 @@
-class University:
-    def __init__(self, name, location):
-        self.name = 'VIT'
+class Person:
+    def __init__(self):
+        self.name = "yashas"
