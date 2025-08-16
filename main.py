@@ -1,3 +1,1 @@
-class Person:
-    def __init__(self):
-        self.name = "yashas"
+print('hello world')
